@@ -7,8 +7,8 @@ This is an app which uses the device native camera and sends image to online fir
 College Name : Indus University Ahmedabad<br>
 Mentor       : Sejal Thakkar<br>
 Students     : 
- - <b>Yashas H Majmudar</b>(Developed App)
- - Saumya Ramolia(Testing)
+ - <b>Yashas H Majmudar</b>(Testing)
+ - Saumya Ramolia(Developed App)
  - Khushi Manek(Design)
  - Ritika Dhall(Design)
  - Frenil Patel(Research)
