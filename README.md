@@ -1,6 +1,6 @@
 # Cheque Scanner 📸💳
 
-Embark on a journey where your device's camera becomes a gateway to streamlined transactions. Our innovative app harnesses the power of the native camera to capture images of checks, whisking them away to an online Firebase database. There, cutting-edge Natural Language Processing (NLP) works its wonders, extracting text from the images for seamless display to the user. Experience the future of check processing, right at your fingertips.
+Embark on a journey where your device's camera becomes a gateway to streamlined transactions. This app harnesses the power of the native camera to capture images of checks, whisking them away to an online Firebase database. There, cutting-edge Natural Language Processing (NLP) works its wonders, extracting text from the images for seamless display to the user. Experience the future of check processing, right at your fingertips.
 
 ## Steps to Use 🛠️
 - Open the app and press the "Scan Cheque" button.
